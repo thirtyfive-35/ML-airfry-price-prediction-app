@@ -1,4 +1,4 @@
-# machine-learning-project
+# airfry price prediction app
 
 The Veri toplama file is explained in the Hepsiburada-data-scraping repo. check there
 ```bash
